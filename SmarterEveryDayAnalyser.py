@@ -280,7 +280,7 @@ if __name__ == "__main__":
     sns.scatterplot(data=video_DataFrame, x='Published Time', y='Duration (s)', size='Views', ax=ax)
     ax.set_title('Smart Every Day Videos')
 
-    fig.savefig('SmartEveryDay.png')
+    fig.savefig('SmarterEveryDay.png')
     #plt.close(fig)
 
     # save data to CSV file

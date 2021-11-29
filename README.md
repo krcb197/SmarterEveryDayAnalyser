@@ -1,5 +1,5 @@
-# BrainBlazeAnalyser
-Python Library for Analysing statistics from the [Brain Blaze YouTube Channel](https://youtube.com/channel/UCYY5GWf7MHFJ6DZeHreoXgw)
+# Smart Every Day Analyser
+Python Library for Analysing statistics from the [Smarter Every Day YouTube Channel](https://www.youtube.com/channel/UC6107grRI4m0o2-emgoDnAA)
 
 # Installing
 
@@ -15,9 +15,9 @@ In order to use this do the following:
 # Running
 Run the file 
 ```bash
-python SmartEveryDayAnalyser.py
+python SmarterEveryDayAnalyser.py
 ```
-This will create a file call ``SmartEveryDay.png`` similar to the one below:
-
+This will create a file call ``SmarterEveryDay.png`` similar to the one below:
+![Example](SmarterEveryDay.png)
 
 
